@@ -22,7 +22,7 @@ useEffect(()=>{
             <div className='portfolio_container'>
             <nav className="navbar">
         <div className="logo">
-            <Link href="#">Marlon</Link>
+            <Link href="#">Harpreet</Link>
         </div>
         <div className="menu-toggle" id="menu-toggle" onClick={popupMenu}>
             <div className="bar"></div>

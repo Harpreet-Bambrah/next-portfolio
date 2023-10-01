@@ -12,7 +12,7 @@ export default function Intro() {
             <div className="intro_heading">
               <h1>
                 <span style={{ display: "block" }}>Hi,</span> I'am{" "}
-                <span style={{ color: "#3e6ff4" }}>Marlon</span>{" "}
+                <span style={{ color: "#3e6ff4" }}>Harpreet</span>{" "}
                 <span style={{ display: "block" }} className="intro_webdev" >Web Developer</span>
               </h1>
             </div>
@@ -27,10 +27,10 @@ export default function Intro() {
           <div className="intro_image">
             <div className="intro_image_container">
             <Image
-              src="/perfil.png"
+              src="/harpreet_profile_img (1).png"
               alt="profile_image"
-              width={300}
-              height={300}
+              width={360}
+              height={360}
               priority              
             />
             </div>

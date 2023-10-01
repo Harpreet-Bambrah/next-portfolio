@@ -10,11 +10,11 @@ export default function About(){
                     </div>
                 <div className="about_wrapper">
                     <div className="about_image_wrapper">
-                        <img src="/about.jpg" alt=""/>
+                        <img src="/harpreet_profile_img (1).png" alt=""/>
                     </div>
                     <div className="about_content_wrapper">
                         <h2>
-                            I'am Marlon
+                            I'am Harpreet
                         </h2>
                         <p>
                         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate cum expedita quo culpa tempora, assumenda, quis fugiat ut voluptates soluta, aut earum nemo recusandae cumque perferendis! Recusandae alias accusamus atque.
